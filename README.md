@@ -40,8 +40,7 @@ Welcome to my GitHub! With an **MSc in Physics** (2019, University of Karachi), 
 
 ### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khanwarda&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanwarda&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khanwarda&theme=radical&hide_border=true" width="80%" />
 </p>
 
 ---
