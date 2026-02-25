@@ -32,9 +32,12 @@ Welcome to my GitHub! With an **MSc in Physics**, I bring a strong analytical an
 ---
 
 ### 📊 GitHub Stats
+---
+
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khanwarda&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanwarda&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khanwarda&show_icons=true&theme=dark&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanwarda&layout=compact&theme=dark&hide_border=true" width="48%" />
 </p>
 
 ---
