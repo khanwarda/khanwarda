@@ -1,6 +1,6 @@
 # Hi there, I'm Warda Khan 👋
 
-**Python Developer | Aspiring Applied AI Researcher | Tech Trainer**
+**Python Developer | AI Automation Engineer | AI & Data Science Practitioner | Aspiring Applied AI Researcher | Tech Trainer**
 
 Welcome to my GitHub! With an MSc in Physics, I bring a strong analytical and mathematical foundation to the world of Artificial Intelligence. I am passionate about bridging the gap between cutting-edge AI research and practical, real-world business solutions. 
 
