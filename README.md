@@ -30,15 +30,9 @@ Welcome to my GitHub! With an **MSc in Physics**, I bring a strong analytical an
 * 🏠 **AURA Smart Homes:** A complete visual marketing asset and social media copy generated using advanced Prompt Engineering.
 
 ---
-
-### 📊 GitHub Stats
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khanwarda&show_icons=true&theme=dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanwarda&layout=compact&theme=dark&hide_border=true" width="48%" />
-</p>
+### 📊 My GitHub Activity
+- 🏆 **Total Contributions:** ![GitHub Contributions](https://img.shields.io/github/stats/khanwarda?color=blue&style=flat-square)
+- 🐍 **Primary Language:** ![Top Language](https://img.shields.io/github/languages/top/khanwarda/Prompt-Engineering-AuraSmartHomes?color=yellow&style=flat-square)
 
 ---
 
