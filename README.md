@@ -1,8 +1,5 @@
 # 💫 Hi there, I'm Warda Khan! 👋
 ### Python Developer | AI Automation Engineer | MSc Physics | AI & Data Science Practitioner | Aspiring Applied AI Researcher | Tech Trainer 
-# 💫 Hi there, I'm Warda Khan! 👋
-### Python Developer | AI Automation Engineer | MSc Physics | Tech Trainer 
-
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=khanwarda&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
