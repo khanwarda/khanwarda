@@ -1,19 +1,21 @@
 # 💫 Hi there, I'm Warda Khan! 👋
 ### Python Developer | AI Automation Engineer | MSc Physics | AI & Data Science Practitioner | Aspiring Applied AI Researcher | Tech Trainer 
+# 💫 Hi there, I'm Warda Khan! 👋
+### Python Developer | AI Automation Engineer | MSc Physics | Tech Trainer 
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=khanwarda&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-Welcome to my GitHub! With an **MSc in Physics** (2019, University of Karachi), I bring a strong analytical foundation to AI. I am passionate about bridging the gap between cutting-edge research and real-world business solutions. My goal is to build scalable AI tools and eventually relocate to Germany for advanced research.
+Welcome to my GitHub! With an **MSc in Physics** (2019, University of Karachi), I bring a strong analytical and mathematical foundation to the world of Artificial Intelligence. I am passionate about bridging the gap between cutting-edge AI research and practical, real-world business solutions. My long-term goal is to contribute to advanced AI research while building scalable software tools today.
 
 ---
 
-### 🚀 Current Focus & Work
-* 💻 **Tech Training:** Working as a **Tech Trainer at Nodebook Private Limited**, teaching Python, Data Analysis, and Power BI.
-* 🤖 **AI Development:** Building an **"AI Receptionist"** for Digi Tech Transformation.
-* ⚙️ **Workflow Automation:** Expert in designing complex **n8n** architectures for enterprise efficiency.
-* 🔬 **Research:** Actively studying ML algorithms and LLMs for academic growth.
+### 🚀 What I'm Currently Working On
+* 🔬 **Research & Academics:** Actively studying advanced Machine Learning algorithms, Generative AI, and LLMs, with plans to pursue higher academic research and studies abroad in the AI domain.
+* 💻 **Tech Training:** Currently working as a **Tech Trainer at Nodebook Private Limited**, teaching Python, Data Analysis with Python and Power BI to empower the next generation of tech professionals.
+* 🤖 **AI Development:** Building a functional **"AI Receptionist"** for Digi Tech Transformation, utilizing modern AI tools and web development frameworks.
+* ⚙️ **Workflow Automation:** Designing complex, low-code automation architectures using tools like **n8n** to streamline enterprise processes.
 
 ---
 
@@ -24,14 +26,15 @@ Welcome to my GitHub! With an **MSc in Physics** (2019, University of Karachi), 
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
 ---
 
 ### 📂 Featured Projects
-* 🚀 **Student Dropout Prediction System:** Python, Streamlit, and n8n based real-time analytics.
-* 🧾 **AI-Powered Receipt Analyzer:** OCR and AI data parsing for automated accounting.
-* 🏠 **AURA Smart Homes:** Premium marketing assets via advanced Prompt Engineering.
+* 🚀 **Student Dropout Prediction System:** An end-to-end system built with Python, Streamlit, and n8n for real-time analytics and automated alerts.
+* 🧾 **AI-Powered Receipt Analyzer:** Built for a hackathon, utilizing AI to extract, parse, and organize data from raw receipt images.
+* 🏠 **AURA Smart Homes:** A complete visual marketing asset and social media copy generated using advanced Prompt Engineering and AIPRM.
 
 ---
 
@@ -52,3 +55,6 @@ Welcome to my GitHub! With an **MSc in Physics** (2019, University of Karachi), 
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
+
+---
+⭐️ *Always open to discussing AI research opportunities, academic collaborations, innovative freelance projects, and AI SaaS solutions.*
